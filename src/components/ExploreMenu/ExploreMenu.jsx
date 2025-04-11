@@ -1,6 +1,7 @@
 import React from "react";
 import "./ExploreMenu.css";
 import { menu_list } from "../../assets/assets";
+// import { food_list } from "../../assets/assets";
 // import { assets } from "../../assets/assets";
 
 
